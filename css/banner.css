@@ -65,8 +65,10 @@
      60%{margin-left:-100%;}
         60 %{margin-left:-200%;}
 
-       100%{margin-left:-200%;}
-     
+       90%{margin-left:-200%;}
+     90 %{margin-left:-300%;}
+
+       100%{margin-left:-300%;}
         
     }
 }
