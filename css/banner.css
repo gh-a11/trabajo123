@@ -38,7 +38,7 @@
     
 }
 .slider{
- width: 800%;
+ width: 300%;
     margin: auto;
     overflow: hidden;
    
@@ -48,7 +48,7 @@
     display: flex;
     padding: 0;
     width: 100%;
-      animation: cambio 20s infinite;
+      animation: cambio 10s infinite;
     
     
 }
