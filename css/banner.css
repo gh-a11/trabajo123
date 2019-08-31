@@ -47,7 +47,7 @@
 .slider ul{
     display: flex;
     padding: 0;
-    width: 400%;
+    width: 500%;
       animation: cambio 10s infinite;
     
     
@@ -60,13 +60,13 @@
 }
 @keyframes cambio{
     0%{margin-left:0;}
-    30%{margin-left:0;}
-     30%{margin-left:-100%;}
-     60%{margin-left:-100%;}
-        60 %{margin-left:-200%;}
+    20%{margin-left:0;}
+     25%{margin-left:-100%;}
+     45%{margin-left:-100%;}
+        50 %{margin-left:-200%;}
 
-       90%{margin-left:-200%;}
-     90 %{margin-left:-300%;}
+       70%{margin-left:-200%;}
+     75 %{margin-left:-300%;}
 
        100%{margin-left:-300%;}
         
