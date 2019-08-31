@@ -54,7 +54,7 @@ section{
 }
 
 #blog .contenedor{
-    display: block;
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
