@@ -92,7 +92,7 @@ section{
     height:300px;
     margin:auto;
     border:none;
-.A
+#hola .A
 {
     width:300px;
     heigth:300px;
@@ -102,7 +102,7 @@ section{
     left:300px;
     float:left;
 }
-.B
+#hola.B
 {
     width:300px;
     heigth:300px;
