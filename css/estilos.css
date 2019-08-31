@@ -86,25 +86,28 @@ section{
     width: 100%;
     max-width: 280px;
 }
-.conten
+#div conten
 {
-    width: 200px;
+	margin:auto;
+	margin-top:60px;
+	width:900px;
+	height:300px;
+	border:none;
+}
+#div A
+{
+	width:300px;
+	height:300px;
+	background-color:red;
+	float:left;
 	
-	margin: 0;
-    overflow: hidden;
-	width: 100%;
-    position: relative;
-	padding: 0;
 }
-. conten A{
-    float: left;
-    display: table-cell;
-}
-    .conten B{
-        float: left;
-        display: table-cell;
-        position: relative;
-	padding: 0;
-    }
+#div B
+{
+	width:300px;
+	height:300px;
+	background-color:red;
+	float:left;
+	
     
 
