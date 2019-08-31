@@ -86,27 +86,12 @@ section{
     width: 100%;
     max-width: 280px;
 }
-#general
-{
+#hola{
+    width:800px;
+    background color: blue;
     margin:auto;
-    width:800px;
     height:300px;
-    background-color:blue;
-    
-}
-#ofertas
-{
-        margin:auto;
-    width:800px;
-    height:300px;
-    background-color:blue;
-    #novedades{
         
-        margin:auto;
-    width:800px;
-    height:300px;
-    background-color:blue;
-        float:left;
         
     
     
