@@ -75,26 +75,7 @@ section{
     text-align: center;
 }
 
-#blu .contenedor{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
 
-#blu article {
-    margin: 15px;
-}
-
-#blu img {
-    width: 100%;
-    max-width: 280px;
-}
-#hola{
-    width:800px;
-    background color: #00FFFF;
-    margin:auto;
-    height:300px;
-        
         
     
     
