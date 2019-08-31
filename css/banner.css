@@ -5,7 +5,7 @@
 }
 #banner img
 {
-    width: 100%;
+    width: 400px;
     height: 600px;
     
 }
@@ -47,7 +47,7 @@
 .slider ul{
     display: flex;
     padding: 0;
-    width: 600%;
+    width: 300%;
       animation: cambio 10s infinite;
     
     
