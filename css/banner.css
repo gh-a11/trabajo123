@@ -38,7 +38,7 @@
     
 }
 .slider{
- width: 500%;
+ width: 95%;
     margin: auto;
     overflow: hidden;
    
@@ -47,8 +47,9 @@
 .slider ul{
     display: flex;
     padding: 0;
-    width: 100%;
+    width: 400%;
       animation: cambio 10s infinite;
+    animation-direction:alternate
     
     
 }
