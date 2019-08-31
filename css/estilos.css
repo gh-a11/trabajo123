@@ -44,7 +44,25 @@ section{
     text-align: center;
     
 }
-h3
+h3,H4
 {
     tex-align: center;
+}
+#blog h3, h4 {
+    text-align: center;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article {
+    margin: 15px;
+}
+
+#blog img {
+    width: 100%;
+    max-width: 280px;
 }
