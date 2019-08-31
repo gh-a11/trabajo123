@@ -86,5 +86,25 @@ section{
     width: 100%;
     max-width: 280px;
 }
-
+.conten
+{
+    width: 200px;
+	
+	margin: 0;
+    overflow: hidden;
+	width: 100%;
+    position: relative;
+	padding: 0;
+}
+. conten A{
+    float: left;
+    display: table-cell;
+}
+    .conten B{
+        float: left;
+        display: table-cell;
+        position: relative;
+	padding: 0;
+    }
+    
 
