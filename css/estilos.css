@@ -69,6 +69,8 @@ section{
 #blog img {
     width: 100%;
     max-width: 280px;
+    position :flex;
+        
 }
 
 #blu h3, h4 {
