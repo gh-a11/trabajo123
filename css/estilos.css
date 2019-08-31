@@ -57,35 +57,19 @@ section{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background:white;
-    overflow:hidden;
-    
 }
 
-#blog 1 {
-    margin: 40px;
-    float:left;
-    padding:10px;
-    max width:280px;
-    
+#blog article {
+    margin: 15px;
 }
-#blog 2{
-    float:right;
-    padding:10px;
-    margin:40px;
-     max width:280px;
 
 #blog img {
     width: 100%;
     max-width: 280px;
-   float: left;
-     max width:280px;
-    
 }
-h5
-{
-    text-align:center;
+#banner {
+    margin-top: 50px;
+    position: relative;
 }
-#1
-{
-    float:right;
+
+
