@@ -66,6 +66,9 @@ section{
 #blog img {
     width: 100%;
     max-width: 280px;
+    border radius: 10px;
+    max-height:365px;
+    
 }
 h5
 {
