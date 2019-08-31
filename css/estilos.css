@@ -57,11 +57,22 @@ section{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    background:white;
+    overflow:hidden;
+    
 }
 
-#blog article {
-    margin: 15px;
+#blog 1 {
+    margin: 40px;
+    float:left;
+    padding:10px;
+    
 }
+#blog 2{
+    float:right;
+    padding:10px;
+    margin:40px;
+    
 
 #blog img {
     width: 100%;
