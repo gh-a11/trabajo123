@@ -44,9 +44,13 @@ section{
     text-align: center;
     
 }
-h3,H4
-{
+
+h5{
     tex-align: center;
+}
+h6
+{
+    text-align:center;
 }
 #blog h3, h4 {
     text-align: center;
