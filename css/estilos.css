@@ -86,29 +86,27 @@ section{
     width: 100%;
     max-width: 280px;
 }
-#hola .contenedor
+#general
 {
-    widht:900px;
-    height:300px;
     margin:auto;
-    border:none;
-#hola .A
-{
-    width:300px;
-    heigth:300px;
-    background-color:#4A88F4;
-    color:#fff;
-    font-size:30px;
-    left:300px;
-    float:left;
-}
-#hola.B
-{
-    width:300px;
-    heigth:300px;
-    background-color:#4A88F4;
-    color:#fff;
-    font-size:30px;
-    float:left;
+    width:800px;
+    height:300px;
+    background-color:blue;
     
-
+}
+#ofertas
+{
+        margin:auto;
+    width:800px;
+    height:300px;
+    background-color:blue;
+    #novedades{
+        
+        margin:auto;
+    width:800px;
+    height:300px;
+    background-color:blue;
+        float:left;
+        
+    
+    
