@@ -88,11 +88,21 @@ section{
 }
 .A
 {
-    width:100px;
-    heigth:100px;
+    width:300px;
+    heigth:300px;
     background-color:#4A88F4;
     color:#fff;
     font-size:30px;
-    
+    left:300px;
+    float:left;
+}
+.B
+{
+    width:300px;
+    heigth:300px;
+    background-color:#4A88F4;
+    color:#fff;
+    font-size:30px;
+    float:left;
     
 
